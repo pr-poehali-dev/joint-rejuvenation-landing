@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/ py-1">
+                      css2?family=Inter:wght@300;400;500;600;700&Основан на естественных ресfamily=Montserrat:wght@урсах тела и природ400;500;600;700;ных механизмах. 
+                      В800&display=swap');
+
+@ отличие от традиционных методtailwind base;
+@tailwind components;ов, которые часто требуют дл
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --ительного времени, 
+                      хbackground: 0 0% 100%;
+    ирургического вмешательства или мед--foreground: 222 47% 11.икаментов, тренажё2%;
+
+    --card: 0 0%р «Ось Жизни» предлагает:
+                    </p 100%;
+    --card-foregroun>
+                    <ul className="space-d: 222 47% 11.2%;
+
+    --popover: 0 0% 100%;
+    --popovery-4">
+                      {unique-foreground: 222 47% nesses.map((unique, index) => (11.2%;
+
+    --primary: 188
+                        <motion.li 
+                          key={index} 
+                          className 52% 45%;
+    --primary-="flex items-start gap-4 group"
+                          initial={{ opacity: 0foreground: 210 40% 98%;, y: 10 }}
+                          
+
+    --secondary: 260 62whileInView={{ opacity: 1,% 45%;
+    --secondary y: 0 }}
+                          viewport-foreground: 210 40% ={{ once: true }}
+                          transition={{ delay: index * 0.1, duration98%;
+
+    --muted: 210 : 0.5 }}
+                        40% 96.1%;
+    -->
+                          <div className="flex-muted-foreground: 215shrink-0 w-12.4 16.3% 46 h-12 rounded-full.9%;
+
+    --accent: 16 bg-secondary/10 flex items 100% 67%;
+    --accent-center justify-center text-foreground: 210 40% -secondary group-hover:bg-secondary/98%;
+
+    --destructive: 020 transition-colors">
+                            <Icon name={unique.icon} className=" 84.2% 60h-6 w-6" />.2%;
+    --destructive-fore
+                          </div>
+                          <divground: 210 40% 98%; className="pt-1">
+                            
+
+    --border: 214.<p className="text-gray-700">{unique.text}</p>
+                          3 31.8% 91.4%;</div>
+                        </motion.li
+    --input: 214>
+                      ))}
+                    .3 31.8% 91.</ul>
+                  </div>
+                </CardContent>
+              </Card>4%;
+    --ring: 222
+            </motion.div>
+          </div>
+        </div>
+        .2 84% 4.9%;
+
+    --radius: 0
+        {/* Почему выбир.75rem;
+  }
+
+  .darkают наш метод */}
+         {
+    --background: 222.<motion.div
+          initial={{ opacity: 02 84% 4.9%;, y: 30 }}
+          wh
+    --foreground: 210 40%ileInView={{ opacity: 1, y 98%;
+
+    --card: 222: 0 }}
+          viewport={{ once.2 84% 4.9%;: true }}
+          transition={{ duration: 
+    --card-foreground: 2100.7, delay: 0.4 40% 98%;
+
+    --popover: 222.2 84%  }}
+          className="mt-16 max-w-3xl mx4.9%;
+    --popover--auto"
+        >
+          <Carforeground: 210 40% 98%;
+
+    --primary: 188 52d className="border-none shadow-lg% 45%;
+    --primary-foreground: 222.2 47 overflow-hidden bg-gradient-to-br from-primary/5 to-secondary.4% 11.2%;
+
+    --secondary: 260 62% 45%;
+    --secondary-foreground: 210/5">
+            <CardContent className="p-8">
+              <h 40% 98%;
+
+    --m3 className="text-2uted: 217.2 32xl font-montserrat font-bold mb-6 text-center text.6% 17.5%;
+    --m-gray-800 flex items-center justifyuted-foreground: 215 -center">
+                <Icon name="Medal20.2% 65.1" className="h-6 w-6%;
+
+    --accent: 16 100 text-primary mr-2% 67%;
+    --accent-fore" />
+                ПОЧЕМУ Нground: 210 40% 98%;АШ МЕТОД
+
+    --destructive: 0 62 ВЫБИРАЮТ 1000+ КЛ.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border:ИЕНТОВ
+              </h3>
+              <ul className="space-y-4">
+                 217.2 32.6% 17.{whyChoose.map((reason5%;
+    --input: 217., index) => (
+                  <motion2 32.6% 17.5.li 
+                    key={index} 
+                    className="flex items-start%;
+    --ring: 212.7 gap-4"
+                    initial={{ 26.8% 83.9 opacity: 0, x: -20 }}%;
+  }
+}
+                    whileInView={{ opacity:
+
+@layer base {
+  * {
+     1, x: 0 }}@apply border-border;
+  }
+                    viewport={{ once: true }}
+                
+
+  body {
+    @apply bg    transition={{ delay: index * 0.-background text-foreground font2, duration: 0.6-sans;
+  }
+
+  h }}
+                  >
+                    1, h2, h3<div className="flex-shrink-0 , h4, h5, h6 w-8 h-8 {
+    @apply font-bolrounded-full bg-gradient-to-brd;
+  }
+  
+  . from-primary to-secondary flex items-center justify-center text-white shadowtext-gradient {
+    @apply-sm">
+                       bg-clip-text text-transparent bg-<span className="font-bold text-smbrand-gradient;
+  }
+  ">{index + 1}</span>
+                    </div>
+                    <p
+  .text-gradient-accent {
+    @apply className="text-gray-700" bg-clip-text text-transparent bg->{reason}</p>
+                  </motionaccent-gradient;
+  }
+
+  .hover.li>
+                ))}
+              </ul>
+              
+              <div className="-scale {
+    @apply transitionmt-8 p-4 rounded-lg bg-gray-50 border-transform duration-300 hover:scale-105;
+  }
+  
+  .btn-l-4 border--glow {
+    @accent-dark">
+                <papply relative overflow-hidden; className="font-montserrat font
+  }
+  
+  .btn-glow-medium text-center text-gray-800::before {
+    @apply content">
+                  Если вы хотите-[''] absolute top-0 left- вернуть себе здоровье,[-100%] w-full гибкость, мол h-full bg-gradient-to-r from-transparent via-white/одость, энергию,30 to-transparent transition-all duration-1000; а времени ждать у
+  }
+  
+  .btn- вас нет — наш метод именglow:hover::before {
+    @но для вас!
+                </p>apply left-[100%];
+  
+              </div>
+            </CardContent}
+  
+  .car>
+          </Card>
+        </motion.div>
+      </div>
+    d-highlight {
+    @apply</section>
+  );
+};
+
+export default DeviceInfo;
+</pp border border-transparent hover:border-primary/30 transition-all duration-write>
+
+<pp-write filepath-300 hover:shadow-g="src/components/AuthorInfo.tsxlow-light;
+  }">
+import { Card, CardContent }
+  
+  .section-div from '@/components/uiider {
+    @apply relative/card';
+import Icon from '@/components/ui/icon'; py-12;
+  }
+  
+import { motion } from 'framer-
+  .section-divider::aftermotion';
+
+const AuthorInfo = () => {
+    @apply content-[''] absolute bottom-0 left-1 {
+  const achievements = [
+    {/2 transform -translate-x-1
+      text: "М/2 w-24 h-1 астер-тренер с 30bg-brand-gradient rounded-full;
+  }
+  
+  .highlight-box-летним опытом в оздоровительных {
+    @apply relative;
+  }
+   практиках",
+      icon: "Award"
+    },
+    {
+      text:
+  .highlight-box::before {
+    @apply "Профессиональный сп content-[''] absolute -inset-1 bgортсмен с высшим тренерским образованием",
+      icon-brand-gradient blur opacity-30 rounde: "GraduationCap"
+    },
+    {
+      text: "Болееd-lg -z-10;
+  }
+} 1500 клиентов с

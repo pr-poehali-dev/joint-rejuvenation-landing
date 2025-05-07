@@ -1,0 +1,294 @@
+: "Трижды чемпион стра
+import type { Config } from 'tailwindcss';
+
+const config: Config = {ны, МС по гребле,
+  darkMode: ['class'],
+  content: [
+    './pages/**/*.{ts,tsx}', чемпион по паурлифтингу
+    './components/**/*.{ts,tsx}',
+    './app/**/*.{ts,tsx}',
+    './src/**/*.{, 1 дан кекts,tsx}',
+  ],
+  усинкай карате",
+      iconprefix: '',
+  theme: {
+    container: {
+      center: true,
+      : "Trophy"
+    },
+    {
+      textpadding: '2rem',
+      : "3 года успешной работы вscreens: {
+        'sm': '640px',
+        'md': '768px', Санкт-Петербурге с
+        'lg': '1024px',
+        'xl': '1280px',
+        '2xl': '1400 методикой АФГ",
+      iconpx',
+      },
+    },
+    : "MapPin"
+    },
+    {
+      text: "Клextend: {
+      fontFamily: {
+        sans: ['Inter', 'systemиенты сэкономили более -ui', 'sans-serif'],
+        montserrat: ['Montserrat16 млн ₽ на', 'Inter', 'sans-serif'],
+      },
+      colors медицине благодаря А: {
+        border: 'hФГ",
+      icon: "Psl(var(--border))',
+        iggyBank"
+    },input: 'hsl(var(--
+    {
+      text: "Уinput))',
+        ring: 'h 98% клиентовsl(var(--ring))',
+        background: 'hsl(var(--background))',
+        foreground: ' нормализуется гормональный уhsl(var(--foreground))',ровень",
+      icon: "Activity
+        primary: {
+          //Square"
+    },
+    {
+       Бирюзовыйtext: "У 200+ клиентов
+          lighter: '#6BE7F2 излечены: остеопороз, с',
+          light: '#4FD1колиоз и боли в опорно-двигательном аппарате",
+      iconDD',
+          DEFAULT: '#38B2BD: "HeartPulse"
+    }',
+          dark: '#2798A3',
+          
+  ];
+
+  const howItWorks = [darker: '#1A7F89',
+          
+    {
+      title: "Индивидуальнаяforeground: 'hsl(var(--primary-foreground))',
+        },
+        secondary: программа",
+      text: "Упражнения подбираются под  {
+          // Фиолетовваши цели и состояние здоровый
+          lighter: '#C5B4ья",
+      icon: "PersonStandingFF',
+          light: '#9B"
+    },
+    {
+      title87F5',
+          DEFAULT: '#7E69: "Тренировки под контролем",
+      text: "Только сертифицированныеAB',
+          dark: '#6E59A5',
+          darker: '#5D специалисты проводят занятия",
+      icon: "Eye"
+    },
+    {
+      title489F',
+          foreground: 'hsl(var(--secondary-foreground))',: "Мгновенная биологическая обрат
+        },
+        accent: {
+          ная связь",
+      text: "// Оранжево-красный (для акцентов)
+          lighter: '#FFРезультат можно измерить анализами и специB499',
+          light: '#FF9Eальными тестами",
+      icon: "Activity7A',
+          DEFAULT: '#FF8Square"
+    },
+    {
+      title: "Комплексный э859',
+          dark: '#Eффект",
+      text: "Ук76C3D',
+          darker:репляются кости, связки, суставы, улуч '#D75223',
+          foreground: 'hsl(var(--accentшается работа иммунной,-foreground))',
+        },
+         эндокринной и нmuted: {
+          ервной систем",
+      icon: "DEFAULT: 'hsl(var(--muted)Workflow"
+    }
+  ];
+
+  return)',
+          foreground: 'hsl(var(--muted-foreground) (
+    <section className="py-20)',
+        },
+        destructive: {
+          DEFAULT: 'hsl(var bg-brand-gradient-soft(--destructive))',
+          foregroun" id="author">
+      <div classNamed: 'hsl(var(--destruct="container mx-auto px-4">
+        ive-foreground))',
+        },<motion.div
+          initial={{ opacity:
+        card: {
+          DEFAULT: 'hsl(var(--card))', 0, y: 20 }}
+          wh
+          foreground: 'hsl(varileInView={{ opacity: 1, y(--card-foreground))',
+        : 0 }}
+          viewport={{ once},
+        popover: {
+          DEFAULT: true }}
+          transition={{ duration: : 'hsl(var(--pop0.5 }}
+          classNameover))',
+          foreground: '="text-center mb-12hsl(var(--popover-fore"
+        >
+          <span className="inline-block bg-white/80 backdrop-blur-sm text-primary-dark font-medium text-sm px-4 py-ground))',
+        },
+        brand: {
+          // Град1.5 rounded-fullиентные цвета бренда
+          orange: '#FF8859',
+          yellow: '#F7D046',
+          purple mb-4 shadow-sm: '#9B87F5',">
+            Создатель метод
+          blue: '#4FD1DD',ики
+          </span>
+          <h
+        },
+      },2 className="text-3
+      borderRadius: {
+        lgxl md:text-4xl font-montserrat font-bold mb: 'var(--radius)',
+        md: 'calc(var(--radius) --4">
+            <span 2px)',
+        sm: ' className="text-gradient">Эcalc(var(--radius) - 4ксперт</span> сpx)',
+      },
+      key 30-летним опытом
+          frames: {
+        'accordion</h2>
+          <p className="-down': {
+          from: { height: '0' },
+          text-gray-700 max-w-3to: { height: 'var(--xl mx-auto text-lgradix-accordion-content-height)'">
+            Вячеслав  },
+        },
+        'accordion-up': {
+          from: { height: 'var(--radix-accordion-contentАн соединил древние вос-height)' },
+          to: {точные практики с современными научными ис height: '0' },
+        },следованиями,
+            создав революционный метод естественного оздоровления
+          </p>
+        pulse: {
+          '0
+        </motion.div>%, 100%': { opacity: '
+        
+        <div className="grid gri1' },
+          '50%': {d-cols-1 lg:grid-cols- opacity: '0.85' },
+        },
+        float: {
+          '0%, 100%': {2 gap-12 items-center">
+          {/* transform: 'translateY(0)' }, Биография и достижения */}
+          '50%': { transform: 
+          <motion.div 'translateY(-10px)' },
+        },
+        fadeIn: {
+          
+            className="order-2 lg:'0%': { opacity: '0'order-1 space-y-8" },
+          '100%': { opacity:
+            initial={{ opacity: 0, x '1' },
+        },
+        : -30 }}
+            whshimmer: {
+          '0ileInView={{ opacity: 1, x%': { backgroundPosition: '-200%: 0 }}
+            viewport={{ once 0' },
+          '100%':: true }}
+            transition={{ duration:  { backgroundPosition: '200% 0'0.7 }}
+          > },
+        },
+        
+            <Card className="bg-white shadow-bounce: {
+          'lg border-none overflow-hidden">
+              0%, 100%': { transform: <CardContent className="p-8'translateY(0)' },
+          ">
+                <div className="flex flex'50%': { transform: 'translate-col sm:flex-row gapY(-5px)' },-4 items-center mb-6">
+                
+        },
+      },
+      animation: {
+        'accordion-down': '  <div className="h-20accordion-down 0.2s ease- w-20 rounded-full overflowout',
+        'accordion-up': 'accordion-up 0.2s ease-hidden ring-4 ring-primary-out',
+        pulse: 'pulse/20 shadow-soft">
+                     2.5s cubic-bezier(0.4, 0, <img 
+                      src="https://cdn0.6, 1) infinite',
+        float: 'float 3s ease.poehali.dev/files-in-out infinite',
+        fadeIn: 'fadeIn 0.6s ease-in-/1d3ca896-eout',
+        shimmer: 'shim7c9-415d-bde3-8fc9aamer 2s linear infinite',
+        bounce: 'bounce 1.5s ease-in-out infinite',
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',5aab2e.jpeg" 
+        'gradient-diagonal': 'linear
+                      alt="Вячеслав-gradient(135deg, var(-- Ан" 
+                      className="tw-gradient-stops))',
+        'w-full h-full object-cover"brand-gradient': 'linear
+                    />
+                  </div>
+                  <div className="text-gradient(135deg, #38-center sm:text-left">
+                B2BD 0%, #7E69AB 100%)',
+            <h3 className="text-2xl font-montserrat font-bold text'brand-gradient-soft': 'linear-gradient(135deg, rgba(56,-gradient mb-1">
+                      Вяч178,189,0.15еслав Ан
+                    ) 0%, rgba(126,105,</h3>
+                    <p className="171,0.15) 100%)',
+        'accent-gradient': 'text-gray-600">linear-gradient(135deg, #FF
+                      Автор АФГ и8859 0%, #F7D046 100%)',
+        'bran тренажера «Осьd-circle': 'radial-gradient(circle, #38B2BD Жизни» <br />
+                       0%, #7E69AB 100Специалист по физической реабилит%)',
+        'brand-patternации
+                    </p>
+                  </div>
+                </div': "url('/pattern.svg')",>
+                
+                <div className="gri
+      },
+      boxShadow:d grid-cols-1 md:grid- {
+        'soft': '0 2cols-2 gap-4">px 10px rgba(0,
+                  {achievements.map((achievement, 0, 0, 0.05 index) => ()',
+        'glow': '0 
+                    <motion.div 
+                0 15px rgba(56      key={index}
+                      initial, 178, 189, 0.={{ opacity: 0, y: 10 }}
+                      whileInView={{5)',
+        'glow-purple opacity: 1, y: 0 ': '0 0 15px rgba(}}
+                      viewport={{ once: true }}126, 105, 171, 0
+                      transition={{ delay: index * .5)',
+        'glow-light0.05, duration: 0': '0 0 25.5 }}
+                      px rgba(56, 178, 189, 0.className="group"
+                    >
+                      <div className="flex items-start3)',
+      },
+      typography: (theme) => ({
+        DEFAULT: gap-3 p-3 rounde {
+          css: {
+            maxd-lg hover:bg-gray-50 transition-colors">
+                        <div className="w-9 h-Width: '65ch',
+            color9 rounded-lg bg-primary/10: theme('colors.gray.800 flex items-center justify-center text'),
+            h1: {
+              color: theme('colors.primary.DEFAULT'),
+            },
+            h2-primary-dark shrink-0 group: {
+              color: theme('colors.-hover:bg-primary/20 transitionsecondary.DEFAULT'),
+            },
+            h-colors">
+                          <Icon name={3: {
+              color: theme('colorsachievement.icon} className="h-5 w-5" />
+                        .secondary.dark'),
+            },</div>
+                        <p
+            strong: {
+              color className="text-gray-700 text: theme('colors.primary-sm group-hover:text-gray-.dark'),
+            },
+            a: {
+              color900 transition-colors">{achievement.text}: theme('colors.primary.DEFAULT'),</p>
+                      </div>
+                
+              '&:hover': {
+                color    </motion.div>
+                  ): theme('colors.primary.dark'),)}
+                </div>
+                
+              },
+            },
+          
+                <div className="mt-6 },
+        },
+      }),
+    },pt-6 border-t border-
+  },
+  plugins: [requiredashed border-gray-200">
+                  ('tailwindcss-animate'), require('@tailwin<div className="bg-primary/5dcss/typography')],
+};
+
+export p-4 rounded-lg"> default config;

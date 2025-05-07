@@ -1,0 +1,278 @@
+components/Problems.tsx">
+import Icon from '@/components/
+                    <div className="p-6 ui/icon';
+import { Card, CardContent }md:p-8">
+                      <div from '@/components/ui/card'; className="flex flex-col md:flex-row items-start
+import { motion } from 'framer-motion';
+
+const Problems gap-6">
+                        <div className="w-16 = () => {
+  const problems = [
+    { h-16 rounded-xl bg-gradient
+      text: "Постоянная усталость и сонливость",
+      icon: "Battery-to-br from-primary to-primary-dark flex items-center justify-center text-white shadow",
+      color: "text-primary"
+    },-md shrink-0 md:mt
+    {
+      text: "Боли в су-2">
+                          <Icon name="Buildingставах, спине, шее",
+      " className="h-8 w-8icon: "Bones",
+      color: "text-primary" />
+                        </div>
+                -dark"
+    },
+    {
+              
+                        <div className="flex-1">
+                text: "Потеря гибкости и м          <h4 className="text-xlелкой моторики",
+      icon: font-montserrat font-semibold mb "HandMetal",
+      color: "text-secondary-3 text-gray-800 group-hover:text"
+    },
+    {
+      text-primary transition-colors">
+                            Для профессионалов
+                          </h4>: "Ломота в костях и ост
+                          
+                          <p className="еопороз",
+      icon: "Skulltext-gray-600 mb-6">
+                ",
+      color: "text-secondary-dark"
+    },
+    {
+                  Вы — профессионал вtext: "Стресс, сфере фитнеса, масс раздражительность, апатия",
+      icon: "Frown",
+      colorажа, мануальной терап: "text-accent"
+    },ии или оздоровления? 
+                            
+    {
+      text: "СХотите предложить своим клиентамколиоз, искривления позвоночного столба",
+      icon: "Activity уникальные методы восстановления и укSquare",
+      color: "text-accent-репления организма, 
+                            которdark"
+    }
+  ];
+
+  ые гарантируют быстрый эconst triedMethods = [
+    ффект и высокий уровень удов{
+      text: "Масслетворенности?
+                          </p>
+                          
+                          <div className="flex flex-wrap gap-3ажи, йога, медитации mb-6">
+                            <div — без результата",
+      icon className="flex items-center gap-1.: "MessageSquareX"
+    },
+    {
+      text: "Опера5 bg-primary/10 px-2ции, уколы, г py-1 rounded-full text-ормоны — дорого и опxs text-primary-dark">
+                              <Iconасно",
+      icon: "Syringe"
+    },
+    {
+      text: " name="TrendingUp" className="h-3 w-3" />
+                              Блокады, таблетки, при<span>Высокая рентабельность</span>
+                            </div>
+                боры — временно снимают симптом            
+                            <div className="flex itemsы",
+      icon: "P-center gap-1.5 bg-illsMultiple"
+    },secondary/10 px-2 py-1 rounded-full text-xs text-secondary
+    {
+      text: "Б-dark">
+                              <Icon name="АДы, иголкиUsers" className="h-3 w-3" />
+                              <span>Стабильный по, колдуны – больток клиентов</span>
+                 возвращается",
+      icon: "            </div>
+                            
+                            <div className="flex items-center gap-Sparkles"
+    }
+  ];
+
+  1.5 bg-accent/10 px-2 py-1 rounded-const container = {
+    hidden: {full text-xs text-accent-dark"> opacity: 0 },
+    show:
+                              <Icon name="Rocket {
+      opacity: 1,
+      " className="h-3 w-3transition: {
+        staggerChildren: " />
+                              <span>Бы0.1
+      }
+    }
+  };
+
+  const item = {стрый старт</span>
+                            </div>
+                          </div>
+    hidden: { opacity: 0, y
+                          
+                          <Button className: 20 },
+    show="bg-gradient-to-r from-primary to-: { opacity: 1, y: primary-dark hover:shadow-glow btn-0 }
+  };
+
+  return (
+    glow text-white">
+                            Откр<section className="py-20 bg-white relative" id="problems">
+      {ыть свой Центр Жизни
+                            <Icon name="Building/* Декоративный фон */}" className="h-4 w-4 ml-2" />
+                          </Button
+      <div className="absolute top-0 left->
+                        </div>
+                      0 w-full h-40 bg-gradient-to-b from-primary</div>
+                    </div>
+                  </div>
+                </motion./5 to-transparent"></div>
+      div>
+                
+                {/* Для
+      <div className="container mx-auto px-4  домашнего использования */}
+                <motion.div
+                  initial={{ opacity: 0relative">
+        <motion.div 
+          className="max, x: 30 }}
+                  -w-3xl mx-auto"
+          initialwhileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ opacity: 0, y: 20={{ once: true }}
+                  transition={{ }}
+          whileInView={{ opacity duration: 0.7, delay: 0.: 1, y: 0 }}
+          viewport2 }}
+                  className="group"={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <h2
+                >
+                  <div className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow className="text-3xl md:text--lg transition-all duration-300 border border-transparent group-hover:border-secondary4xl font-bold mb-3 text-center relative/20">
+                    <div className="p-6 md:p-8"> inline-block">
+            <span className="text-
+                      <div className="flex flex-col md:flex-row items-start gap-6">
+                        <div className="w-16 h-16 rounded-gradient">Узнаете себя?xl bg-gradient-to-br from-</span>
+            <div className="absolute bottom-0 left-0 rightsecondary to-secondary-dark flex items-center justify-center text-white shadow-md shr-0 h-1 bg-branink-0 md:mt-2">
+                          <Icon name="Home" className="h-d-gradient rounded-full transform translate-y-28 w-8" />
+                        "></div>
+          </h2></div>
+                        
+                        
+          
+          <p className="text-lg<div className="flex-1">
+                          <h4 className="text-xl font text-gray-600 text-center mb-12-montserrat font-semibold mb-3 text-gray-800 group-hover:text-secondary transition-colors"> mt-8">
+            Если вы стол
+                            Для домашнего использкнулись с этими проблемамиования
+                          </h4>
+                          
+                          <p className="text-gray-600 mb-6">
+                , то вы не одиноки.            Хотите заниматься в
+            Миллионы людей  удобное время, не выходя из дома?ежедневно страдают от подобных симптом 
+                            Приобретите тренов,
+            считая их неизбежными спажер для домашнего использования и освойте гимнастику для 
+                            самутниками возраста.
+          </p>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">остоятельной практики! По
+            {/* Симптомы */}
+            <motion.div
+              variants={container}
+              initial="hidden"
+              ддерживайте здоровье и молодость своей семьи.
+                          </p>whileInView="show"
+              viewport={{ once: true }}
+                          
+                          <div className="flex flex-wrap gap-3 mb-
+            >
+              <div className="relative6">
+                            <div className="flex">
+                <h3 className="text items-center gap-1.5 bg-secondary/10 px-2 py-1 rounded-full text-xs text-xl font-semibold mb-4-secondary-dark">
+                              <Icon text-primary-dark flex items-center"> name="Clock" className="h-3 w-3
+                  <span className="w" />
+                              <span>Зан-8 h-8 rounded-fullимайтесь в любое время</span> bg-primary/20 flex items-center justify-
+                            </div>
+                            center mr-2">
+                    <Icon name="Activity
+                            <div className="flex items-center" className="h-4 w-4  gap-1.5 bg-primary/10 px-text-primary" />
+                  </span2 py-1 rounded-full text-xs text-primary-dark">
+                >
+                  Симптомы,              <Icon name="Leaf" className="h- которые мешают жить
+                </h3 w-3" />
+                              3>
+                
+                <Card className="bg-white shadow-soft<span>Экономия на лекарствах</span>
+                            </div>
+                 border-none overflow-hidden">            
+                            <div className="flex items
+                  <CardContent className="p-6">
+                    <motion-center gap-1.5 bg-accent/10 px-2 py-1 rounded-full text-xs text-accent-dark">.ul className="space-y-5
+                              <Icon name="Heart" className="h-" variants={container}>
+                      {problems3 w-3" />
+                              .map((problem, index) => (
+                        <motion.li 
+                          <span>Здоровье всей семьиkey={index} 
+                          className</span>
+                            </div>
+                          </div>
+                          
+                ="flex items-start gap-4 group          <Button className="bg-gradient-to"
+                          variants={item}
+                -r from-secondary to-secondary-dark        >
+                          <div className="w hover:shadow-glow-purple btn-glow text-10 h-10 rounded-full bg-white">
+                            Купить тренажер для дома
+                            <Icon name="-gray-50 flex items-center justify-center group-hover:bg-ShoppingCart" className="h-4 wprimary/10 transition-colors shrink-0">
+                            <Icon name-4 ml-2" />
+                          </Button>
+                        </div>
+                      </div={problem.icon} className={`h-5 >
+                    </div>
+                  w-5 ${problem.color}`}</div>
+                </motion.div> />
+                          </div>
+                          <div>
+                            <p
+              </div>
+              
+              <motion.div
+                initial={{ opacity: 0 className="text-gray-700 font-medium", y: 20 }}
+                wh>{problem.text}</p>
+                            ileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once<div className="w-0 group-hover:w-full h: true }}
+                transition={{ delay: 0.4, duration: 0.6 }}-0.5 bg-primary/20 transition-all duration-300 
+                className="mt-12 p-6 bgmt-1 rounded-full"></div>
+                          -amber-50 rounded-xl text-center"</div>
+                        </motion.li
+              >
+                <div className="flex>
+                      ))}
+                    </motion.ul>
+                  </CardContent items-center justify-center gap-2>
+                </Card>
+              </div mb-2">
+                  <Icon name="Phone>
+            </motion.div>
+            " className="h-5 w-5 text-amber-600" />
+                  
+            {/* Что пробовали */}<span className="font-medium text-amber
+            <motion.div
+              variants={container}
+              initial="hidden"
+              whileInView="-800">Получите подробную консультацshow"
+              viewport={{ once: true }}ию</span>
+                </div>
+                <p className="text-amber-700
+              transition={{ delay: 0.2 }}">
+                  Свяжитесь
+            >
+              <div className="relative">
+                <h3 с нами для получения подробной информации о className="text-xl font-semibold mb-4 text-secondary-dark flex items-center">
+                  <span className="w франшизе и условиях приобретения трен-8 h-8 rounded-fullажера.
+                  Наши bg-secondary/20 flex items-center специалисты подготовят для justify-center mr-2">
+                    <Icon name="History" className="h- вас индивидуальное4 w-4 text-secondary" предложение.
+                </p> />
+                  </span>
+                  
+              </motion.div>
+            </CardContent>
+          </Card>
+        </divЧто вы уже пробовали
+                </h3>
+                
+                >
+      </div>
+    </section>
+  );
+};
+
+export default Business<Card className="bg-white shadow-soft border-none overflow-hidden">
+                  Opportunities;

@@ -1,0 +1,391 @@
+
+import Icon from '@/components/ui/icon';
+import {y-5" variants={container}>
+                      {triedMethods.map((metho Button } from '@/components/ui/buttond, index) => (
+                        <motion';
+import { motion } from 'fr.li 
+                          key={index}amer-motion';
+
+const Footer = () => 
+                          className="flex items-start gap-4 group"
+                          variants={item}
+                        >
+                           {
+  const currentYear = new Date().getFullYear();
+  
+  return (<div className="w-10 h-
+    <footer className="bg-gray-90010 rounded-full bg-gray-50 text-white pt-16 pb- flex items-center justify-center group-hover:bg-secondary/10 transition-8" id="contacts">
+      {colors shrink-0">
+                            /* Верхняя часть футера */}<Icon name={method.icon} className="
+      <div className="container mx-auto px-4">
+        <div className="grih-5 w-5 text-secondary" />
+                          </div>d grid-cols-1 md:grid-
+                          <div>
+                            <p className="text-gray-700 font-medium">{method.cols-3 gap-12 mb-12">
+          {/* Информация о компании */text}</p>
+                            <div className="w-0 group-hover:w-full h-0}
+          <div>
+            <div.5 bg-secondary/20 transition-all duration-300 className="flex items-center gap-3 mt-1 rounded-full"></div mb-6">
+              <div>
+                          </div>
+                         className="w-12 h-12 </motion.li>
+                      ))}
+                    </motion.ul>
+                rounded-full bg-white/10 p    
+                    <div className-2 backdrop-blur-sm">
+                <img="mt-6 border-t border 
+                  src="https://cdn.po-dashed border-gray-200 pt-6ehali.dev/files/ff492">
+                      <div className="flex items-start gap-3">
+                        <Icond36-8393-4378-93 name="AlertCircle" className="h-6 w-6 text-accent shrink-0 mt-1" />
+                        <p className="text-graybd-fe0921ee0c56.JPG" 
+                  alt="-600">
+                          <span className="font-semibold text-accent">Внимание:Логотип Ось Жизни" 
+                  className="w-full h</span> Большинство этих решений д-full object-contain"
+                />
+              ают только 
+                          временное облегчение,</div>
+              <div>
+                <h3 className="font-montserrat font не решая основную проблему, и часто имеют побочные эффекты-bold text-xl text-gradient-accent
+                        </p>
+                      </div">Ось Жизни</h>
+                    </div>
+                  3>
+                <p className="text-</CardContent>
+                </Card>gray-400 text-sm">Природ
+              </div>
+            </motion.div>
+          </div>
+          
+          <motionное омоложение</p>
+              </div>
+            </div>
+            .div 
+            className="mt-12
+            <p className="text-gray-300 mb-6">
+              Ад rounded-xl overflow-hidden shadow-lg"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}аптивно функциональная г
+            viewport={{ once: true }}
+            имнастика на запатентованномtransition={{ delay: 0.4 тренажере «Ось Ж, duration: 0.6 }}
+          >
+            <div classNameизни» —
+              ваш коро="bg-brand-gradient p-6 groupткий путь к омоложению, источнику энергии и здоровью. hover-scale">
+              <h
+            </p>
+            
+            3 className="font-bol<div className="flex items-center gap-4d text-xl text-white mb-">
+              <a 
+                href="#3 flex items-center">" 
+                className="w-9
+                <Icon name="Light h-9 rounded-full bg-bulb" className="h-6white/10 flex items-center justify- w-6 mr-2" />center text-gray-300 hover:bg
+                Есть выход!
+              -primary/80 hover:text-white transition</h3>
+              <p className="text--colors"
+                aria-label="Instagram"
+              >
+                <Icon name="white/90 font-medium">
+                Instagram" className="h-5 w-Мы знаем, как в5" />
+              </a>
+              <a 
+                новь сделать вас молhref="#" 
+                className="w-9 h-9 rounded-full bgодыми, энергичными и-white/10 flex items-center justify-center text-gray-300 hover: активными, за одну программу,bg-primary/80 hover:text-white transition-colors"
+                aria-label="Facebook"
+              >
+                <Icon 
+                опираясь л name="Facebook" className="h-5 w-5" />
+              </a>ишь на <strong className="text-white">
+              <a 
+                href="#"научные открытия скрытых ресурсов в 
+                className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-gray-300 hover:bg-primaryашего тела</strong>, о которых зн/80 hover:text-white transition-colors"
+                aria-label="Telegram"
+              >ала лишь элита!
+              </p>
+                <Icon name="Telegram" className="h-5 w-5" />
+            </div>
+          </motion.div>
+        </motion.div>
+      
+              </a>
+              <a 
+                </div>
+    </section>
+  );href="#" 
+                className="w-
+};
+
+export default Problems;
+</pp9 h-9 rounded-full bg-write>
+
+<pp-write filepath="-white/10 flex items-center justify-center text-gray-300 hover:src/components/ScientificApproach.tsx">bg-primary/80 hover:text-
+import Icon from '@/components/ui/white transition-colors"
+                aria-labelicon';
+import { Card, CardContent } from '@/components/ui/card';
+import="Youtube"
+              >
+                <Icon name="Youtube" className="h-5 w- { Button } from '@/components/ui/button';5" />
+              </a>
+            
+import { motion } from 'framer</div>
+          </div>
+          -motion';
+
+const ScientificAppro
+          {/* Контакты */}
+          ach = () => {
+  const approaches = [
+    <div>
+            <h3 className{
+      id: 1,
+      title: "="font-montserrat font-semibold text-lg mb-6Пьезоэлектрический эффект в костях",
+      subtitle: "Откр relative inline-block">
+              Контактная информация
+              <span className="absolute bottom-0 left-0 rightытие 1957 г., -0 h-0.5 bgИвао Ясуда",
+      -brand-gradient rounded-full"></span>
+            </h3>
+            
+            description: "Кости генерируют элект<ul className="space-y-4">
+              <li className="flex items-startрический сигнал при механическом дав gap-3 group">
+                <divлении, стимулируя естественную className="w-10 h-10  регенерацию тканей на клеточном уrounded-lg bg-white/10 flexровне.",
+      icon: "Z items-center justify-center text-primary-light shrink-0 group-hover:bgap",
+      color: "from-primary to-primary-dark"
+    },
+    -primary/20 transition-colors">
+                  <Icon{
+      id: 2,
+       name="MapPin" className="h-5 w-5" />
+                </div>
+                title: "Закон Вольфа",
+      <div>
+                  <h4 className="fontsubtitle: "Фундаментальное-medium text-white">Адрес открытие в медицине",
+      description: "К</h4>
+                  <p className="text-gray-300">Санкт-Петости укрепляются при механической нагрузкеербург, ул. Примерная, д. 123</p>
+                </div>
+              , превышающей в 15 раз в</li>
+              
+              <li className="flex items-start gap-3 group">
+                <div className="w-10 ес тела. Активируется рост костh-10 rounded-lg bg-white/10 flex items-center justify-centerной ткани и выделение гормонов text-primary-light shrink-0 , регулирующих метаболизм организgroup-hover:bg-primary/20 transition-colors">
+                  <Icon name="Phone" className="h-5 wма, иммунитет и развитие м-5" />
+                </div>
+                <div>
+                  <h4озга.",
+      icon: "Scale",
+      color: className="font-medium text-white">Телефон</h4>
+                 "from-secondary to-secondary-dark"
+    },
+    {
+      id: 3,
+      title: "Практ  <a href="tel:+79012345678" className="text-gray-300ическое применение с 1997 г.",
+       hover:text-primary-light transition-colors">
+                    +7 (901)subtitle: "Ведущие научные центры США 234-56-78
+                  </a>
+                </div>
+              </li>
+              
+              <li className="",
+      description: "Институты Harvard,flex items-start gap-3 group">
+                <div className="w-10 h-10 rounded-lg bg-white Emory и другие создали фитнес-программ/10 flex items-center justify-center text-primary-light shrink-0 ы и тренажеры, основанные на научgroup-hover:bg-primary/20 transition-colors">
+                  <Icon name="Mail" className="h-5 wных открытиях, доказав эффективность метода-5" />
+                </div>
+                <div>
+                  <h4 className="font-medium text-white"> для укрепления костной ткани и омоложения всего организма.",Email</h4>
+                  <a href
+      icon: "GraduationCap",="mailto:info@oszhizni.ru
+      color: "from-accent to-" className="text-gray-300 hoveraccent-dark"
+    }
+  ];:text-primary-light transition-colors">
+
+  const container = {
+    hidden: { opacity:
+                    info@oszhizni.ru
+                  </a>
+                 0 },
+    show: {</div>
+              </li>
+              
+              <li className
+      opacity: 1,
+      transition: {
+        stagger="flex items-start gap-3 groupChildren: 0.2
+      }
+    ">
+                <div className="w-10}
+  };
+
+  const item = { h-10 rounded-lg bg-
+    hidden: { opacity: 0,white/10 flex items-center justify- y: 20 },
+    show: { opacity: 1, y: 0center text-primary-light shrink-0 group-hover:bg-primary/20 transition-colors">, transition: { duration: 0.6 
+                  <Icon name="Clock" className} }
+  };
+
+  return (="h-5 w-5" />
+    <section className="py-20 bg
+                </div>
+                <div>
+                  <h4 className="font-medium text-white">Часы работ-brand-gradient-soft relative">
+      {ы</h4>
+                  <p className="text-gray-300">Пн-Пт: 9:00-/* Декоративные элементы */}
+      <div className="absolute top-0 left-0 w-full h-2020:00, Сб: 10:00- bg-gradient-to-b from-white18:00</p>
+                 to-transparent"></div>
+      <div className</div>
+              </li>
+            ="absolute bottom-0 left-0 </ul>
+          </div>
+          w-full h-20 bg-gradient
+          {/* Навигация */}-to-t from-white to-transparent"></div>
+      
+      <div className
+          <div className="md:pl-6">
+            ="container mx-auto px-4 relative<h3 className="font-montser">
+        <motion.div 
+          rat font-semibold text-lg mb-6 relative inlineclassName="max-w-5xl mx-auto text-center"
+          initial={{ opacity: -block">
+              Навигация по сайту
+              <span className="absolute bottom-0 left0, y: 20 }}
+          -0 right-0 h-0whileInView={{ opacity: 1,.5 bg-brand-gradient rounded- y: 0 }}
+          viewport={{full"></span>
+            </h3> once: true }}
+          transition={{ duration: 0.6 
+            
+            <div className="grid grid-}}
+        >
+          <div className="inline-block mb-2cols-2 gap-4">
+              <div>
+                <ul className="space-y bg-white/80 backdrop--3">
+                  <li>
+                    blur-sm px-4 py-1<a href="#" className="text-gray-300 hover:text-primary-light transition-.5 rounded-full shadow-sm">
+            <p className="text-primary-dark font-medium text-sm">colors flex items-center gap-2 group">
+                      <span className="w-1Доказанная эффективность</p>
+          .5 h-1.5 rounded-</div>
+          
+          <h2 className="text-3xl md:text-4xl font-bolfull bg-primary-light/50 group-hover:d mb-8">
+            <span className="bg-primary-light transition-colors"></span>
+                      Главная
+                    </a>text-gradient">Научный подход</span>
+                  </li>
+                  <li к вашему здоровью
+          >
+                    <a href="#about"</h2>
+          
+          <p className="text-gray-300 hover:text-primary-light transition-colors flex items className="text-gray-700 max-center gap-2 group">
+                -w-3xl mx-auto mb-12       <span className="w-1.5 h-1.text-lg">
+            Наша5 rounded-full bg-primary-light/50 group-hover:bg-primary методика основана на серьезных научных-light transition-colors"></span>
+                 открытиях и подтверждена ис      О методе
+                    </a>
+                  следованиями 
+            ведущих м</li>
+                  <li>
+                    <a href="#benefits" className="ировых институтов. Мы активtext-gray-300 hover:text-ируем естественные механизмы восстановления вprimary-light transition-colors flex items-center gap-2 group">
+                      ашего тела.
+          </p><span className="w-1.5 h-1.5 rounded-full bg-
+          
+          <motion.div 
+            primary-light/50 group-hover:className="grid grid-cols-1 lgbg-primary-light transition-colors"></span:grid-cols-3 gap-8 mb-12>
+                      Преимущества
+                    </a>
+                  </li>"
+            variants={container}
+            initial="hidden"
+            whileInView="
+                  <li>
+                    show"
+            viewport={{ once: true }}
+          >
+            <a href="#device" className="text-{approaches.map((approach) => (gray-300 hover:text-primary-
+              <motion.div key={approach.id}light transition-colors flex items-center gap- variants={item}>
+                <Card className="2 group">
+                      <span className="w-1.5 h-1.5 rounded-bg-white shadow-lg hover:shadow-xlfull bg-primary-light/50 group-hover:bg-primary-light transition- transition-all duration-300 h-full bordercolors"></span>
+                      Тренажёр
+                    </a>
+                  -none overflow-hidden group card-highlight">
+                  </li>
+                </ul>
+              </div>
+              
+              <div><CardContent className="p-0">
+                    {
+                <ul className="space-y-3">
+                  <li>
+                    /* Верхняя часть карточки с<a href="#testimonials" className="text градиентом */}
+                    <div-gray-300 hover:text-primary-light transition-colors flex items-center gap-2 group">
+                      <span className={`bg-gradient-to-r ${ className="w-1.5 h-1.5 rounded-full bg-primaryapproach.color} p-6 relative overflow-hidden`-light/50 group-hover:bg}>
+                      <div className="absolute --primary-light transition-colors"></span>
+                      Отзывы
+                    </a>right-8 -top-8 w-
+                  </li>
+                  <li24 h-24 rounded-full bg->
+                    <a href="#contacts" className="text-gray-300 hover:white/10 blur-xl"></div>
+                      
+                      <div className="relative z-10 flex justify-between items-start">
+                        <div className="w-14 h-14 rounded-xl bg-white/20 backdrop-blur-sm flex items-center justify-center text-white">
+                          <Icon name={approach.icon} className="h-7 w-7" />
+                        </div>
+                        
+                        <div className="flex items-center justify-center w-8 h-8 rounded-full bg-white text-primary-dark font-bold text-sm">
+                          {approach.id}
+                        </div>
+                      </div>
+                      
+                      <h3 className="mt-4 text-xl font-bold text-white relative z-10">
+                        {approach.title}
+                      </h3>
+                      
+                      <p className="text-white/80 text-sm mt-1 font-medium relative z-10">
+                        {approach.subtitle}
+                      </p>
+                    </div>
+                    
+                    {/* Основной контент */}
+                    <div className="p-6">
+                      <p className="text-gray-600">
+                        {approach.description}
+                      </p>
+                      
+                      <div className="mt-4 pt-4 border-t border-gray-100">
+                        <div className="flex items-center text-sm text-primary-dark">
+                          <Icon name="FileText" className="h-4 w-4 mr-2" />
+                          <span className="font-medium">Научные публикации</span>
+                          <span className="ml-auto text-xs bg-primary/10 px-2 py-0.5 rounded-full">100+</span>
+                        </div>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+            ))}
+          </motion.div>
+          
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.6, duration: 0.6 }}
+            className="bg-white rounded-xl shadow-lg overflow-hidden"
+          >
+            <div className="p-8 text-center">
+              <div className="flex items-center justify-center gap-2 mb-4">
+                <div className="w-3 h-3 rounded-full bg-red-500 animate-pulse"></div>
+                <p className="font-medium text-red-600">Ограниченное предложение</p>
+              </div>
+              
+              <h3 className="font-bold text-xl md:text-2xl mb-4 text-gray-800">
+                Запишитесь на первое занятие уже сегодня!
+              </h3>
+              
+              <p className="text-gray-600 mb-6">
+                График тренировок расписан на 3 недели вперед, но мы оставили несколько слотов для новых клиентов.
+                Не упустите возможность испытать метод на себе уже в ближайшие дни!
+              </p>
+              
+              <Button className="bg-brand-gradient btn-glow hover:shadow-glow py-6 px-8 text-white font-semibold text-lg rounded-xl">
+                Забронировать место
+                <Icon name="CalendarCheck" className="h-5 w-5 ml-2" />
+              </Button>
+            </div>
+          </motion.div>
+        </motion.div>
+      </div>
+    </section>
+  );
+};
+
+export default ScientificApproach;
